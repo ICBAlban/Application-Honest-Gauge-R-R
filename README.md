@@ -1,0 +1,8 @@
+The explanations and functionality of the application can be found at the following address: 
+https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3752
+This program is an application designed to perform an honest Gauge R&R. 
+
+An executable version is available in the Software/dist/main.exe folder. 
+Alternatively, the source code written in Python is available in the Python Code folder. 
+
+The license for this program is Apache 2.0.
